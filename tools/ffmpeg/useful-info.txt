@@ -1,0 +1,4 @@
+
+1. How can I reduce a video's size with ffmpeg?: https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg
+Basic Command:
+ffmpeg -i input.mp4 output.mp4
